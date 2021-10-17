@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@420&display=swap');
+h1 {
+  margin: auto;
+  text-align: center;
+  color: #4f4ac2;
+}
+
+th {
+  background-color: #c7c6e1;
+  color: #4f4ac2;
+  white-space: nowrap;
+  position: initial;
+}
+
+td {
+  font-size: larger;
+  font-family: 'Work Sans', sans-serif;
+  position: initial;
+}
+
+table {
+  margin:  auto;
+  text-align: center;
+  position: unset;
+  border-collapse: collapse;
+  color: #706f7c;
+  min-width: 60%;
+}
+
+tr:hover {
+  color: #4f4ac2;
+  font-weight: 500;
+}
+
+tr:nth-child(even) {
+  background-color: #f8f7fc;
+}
+
+button{
+}
